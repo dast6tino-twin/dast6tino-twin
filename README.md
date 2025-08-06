@@ -61,12 +61,12 @@ I'm open to collaboration, contributions, and involvement in open-source project
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dast6tino-twin&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=dast6tino-twin&theme=github_dark_dimmed&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dast6tino-twin&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dast6tino-twin&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dast6tino-twin&theme=apprentice&no-frame=true&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
+<!-- ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dast6tino-twin&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) and polished by hand 😄 -->
